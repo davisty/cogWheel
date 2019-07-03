@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AreaExit.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <None Include="Assets\Udemy RPG Assets\Licence.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Tyler.Davis/Documents/GitHub/cogWheel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
